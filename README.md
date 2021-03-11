@@ -1,6 +1,6 @@
 # StoryBooks
 
-[Heroku Live Linke](http://storybooks5.herokuapp.com)
+[Heroku Live Link](http://storybooks5.herokuapp.com)
 
 Passport Google Authentication, Express, MongoDB
 
